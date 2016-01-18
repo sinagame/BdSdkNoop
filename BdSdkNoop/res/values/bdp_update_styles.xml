@@ -1,0 +1,9 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="bdp_update_dialog_style" parent="android:Theme.Dialog"></style>
+
+    <style name="bdp_update_dialog_style_fullscreen" parent="android:Theme.Dialog"></style>
+
+    <style name="bdp_update_progress_download"></style>
+
+</resources>
